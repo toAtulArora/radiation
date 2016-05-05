@@ -1,13 +1,11 @@
-# $\phi@I \text{ | Radiation}$
+# Φ@I Radiation
 
 ## Thursday, May 5 (2016)
 
 ### Babble version
 Hi there,
 
-This is an invitation to the first session of 
-$\phi@I \text{ | Radiations}.$ 
-I know each of you will continue to become better at your fields. To keep in touch with the future hot-shot scientists, we (me and Kishor) decided that perhaps having a regular "google hangouts" will be a good idea.
+This is an invitation to the first session of **Φ@I Radiation**. I know each of you will continue to become better at your fields. To keep in touch with the future hot-shot scientists, we (me and Kishor) decided that perhaps having a regular "google hangouts" will be a good idea.
 
 In the very first run, we intend to have one section (15-20 minutes) on revision, followed by one (15-20 minutes again) that discusses tools relevant to academia. The idea is that each week we should recall what we already know, invest a little in becoming more efficient, and (in the future sessions) learn about the research backgrounds of our fellow speakers.
 
@@ -23,8 +21,8 @@ Atul
 
 Specifications
 
-| |  |
-|--|--|
+|Key |Detail  |
+|:--|:--|
 |Session # | 1 |
 |Date | May 05, 2016  |
 |Time | 10:00 PM (IST) |
