@@ -34,3 +34,24 @@ Specifications
 | Tech Speaker | Atul Singh Arora | 
 | Tech Topic | Zotero, Mendeley |
 | Discussion Topic | Contents, Schedule, Frequency |
+
+
+#### Discussions
+
+* Presenter, everything in the slide or at the very least, have ebooks ready and bookmarked | scan notes
+* Log (gitHub)
+* Video (youtube)
+* Revision, you need longer & fewer topics | interesting questions, challenging questions
+* Group in Zotero
+* Advertise, increase participation
+* Decide speaker at the end of every talk
+
+Next week
+
+|Key | Detail |
+|:--|:--|
+|Revision Speaker | Kishor Bharti |
+|Tech Speaker | Atul Singh Arora |
+|Research Topic | Rajendra Bhati |
+|Date | Thurs, May 19, 2016 |
+|Time | 1800 (IST) |
