@@ -2,7 +2,7 @@
 
 ## Thursday, May 5 (2016)
 
-### Babble version
+### Garrulous version
 Hi there,
 
 This is an invitation to the first session of **Φ@I Radiation**. I know each of you will continue to become better at your fields. To keep in touch with the future hot-shot scientists, we (me and Kishor) decided that perhaps having a regular "google hangouts" will be a good idea.
