@@ -1,8 +1,11 @@
 # Φ@I Radiation
 
-## Thursday, May 5 (2016)
+The latest session is scheduled to be held on **Thursday, May 5, 2016** at **2200 (IST)**. Here is **[the link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)**.
 
-### Garrulous version
+## Invitation Log
+### Thursday, May 5 (2016)
+
+#### Garrulous version
 Hi there,
 
 This is an invitation to the first session of **Φ@I Radiation**. I know each of you will continue to become better at your fields. To keep in touch with the future hot-shot scientists, we (me and Kishor) decided that perhaps having a regular "google hangouts" will be a good idea.
@@ -17,7 +20,7 @@ Sincerely
 
 Atul
 
-### Succinct version
+#### Succinct version
 
 Specifications
 
