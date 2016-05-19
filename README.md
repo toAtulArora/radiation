@@ -1,6 +1,6 @@
 # Φ@I Radiation
 
-The latest session is scheduled to be held on **Thursday, May 19, 2016** at **2200 (IST)**. The link will be posted soon. 
+The latest session is scheduled to be held on **Thursday, May 19, 2016** at **2200 (IST)**. Here is **[the participation link](https://hangouts.google.com/call/5hqs2mmpzbgr3ifldfoid2xfeee)** .
 [//]: # (best way to comment apparantly)
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
@@ -36,6 +36,8 @@ Specifications
 
 
 ### Thursday, May 5 (2016)
+
+**[View the hangout](http://youtu.be/mcgR67Ny19c)**
 
 #### Garrulous version
 Hi there,
