@@ -1,8 +1,38 @@
 # Φ@I Radiation
 
-The latest session is scheduled to be held on **Thursday, May 5, 2016** at **2200 (IST)**. Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**.
+The latest session is scheduled to be held on **Thursday, May 19, 2016** at **2200 (IST)**. The link will be posted soon. <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
+
+### Thursday, May 19 (2016)
+
+#### Garrulous version
+Hi there,
+
+This is an invitation to the second session of **Φ@I Radiation**. Tonight Kishor will do the "revision section", I will do the "tech session" and the last "discussion section" will be open. We start at 10:00 PM tonight. We will send you the links appropriately.
+
+Sincerely
+
+Atul
+
+#### Succinct version
+
+Specifications
+
+|Key |Detail  |
+|:--|:--|
+|Session # | 2 |
+|Date | May 19, 2016  |
+|Time | 10:00 PM (IST) |
+| Revision Speaker | Kishor Bharti |
+| Revision Topic | Quantum Mechanics |
+| Tech Speaker | Atul Singh Arora | 
+| Tech Topic | Zotero, Mendeley |
+| Discussion Topic | Prospective Speakers |
+
+
+
+
 ### Thursday, May 5 (2016)
 
 #### Garrulous version
