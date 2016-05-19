@@ -1,13 +1,23 @@
 # Φ@I Radiation
 
-The latest session is scheduled to be held on **Thursday, May 19, 2016** at **2200 (IST)**. Here is **[the participation link](https://hangouts.google.com/call/5hqs2mmpzbgr3ifldfoid2xfeee)** .
+Φ@I Radiation series has been started to facilitate productive discussions among physics graduates of IISER Mohali. At present, it has the following three sections.
+* Revision Section: Here we will revise topics the audience is already expected to know
+* Technology Section: This is for discussion of relavent tools for enhancing efficiency
+* Research Section: The speaker will either discuss recent progress or their own research at a broad enough level
+
+
+## Upcoming
+The next session will be announced soon.
+
+<!-- The latest session is scheduled to be held on **Thursday, May 19, 2016** at **2200 (IST)**.  -->
+<!-- Here is **[the participation link](https://hangouts.google.com/call/5hqs2mmpzbgr3ifldfoid2xfeee)** . -->
 [//]: # (best way to comment apparantly)
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
 
 ### Thursday, May 19 (2016)
-
+**[View the hangout](http://youtu.be/vXgu0eiObxE)**
 #### Garrulous version
 Hi there,
 
