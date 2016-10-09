@@ -42,6 +42,7 @@ Specifications
 | Research Speaker | Atul Singh Arora |
 | Research Topic | Continuous Time Cryptography and Complexity |
 | Discussion | Speaker for the next session! |
+| Link | [see the website](http://github.com/toAtulArora/radiation) |
 
 
 
