@@ -7,7 +7,7 @@
 
 
 ## Upcoming
-The next session will be announced soon.
+The link will be posted soon.
 
 <!-- The latest session is scheduled to be held on **Sunday Oct 9, 2016** at **10 00 (IST)**.  -->
 <!-- Here is **[the participation link](https://hangouts.google.com/call/5hqs2mmpzbgr3ifldfoid2xfeee)** . -->
