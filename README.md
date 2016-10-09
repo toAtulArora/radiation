@@ -8,8 +8,8 @@
 
 ## Upcoming
 
-The latest session is scheduled to be held on **Sunday Oct 9, 2016** at **10 00 (GMT)**.
-Here is **[the participation link](https://hangouts.google.com/call/2p5yxdtqvjbbzmkglrsvgwutmae)**.
+The latest session is scheduled to be held on **Sunday Oct 16, 2016** at **10 00 (GMT)**.
+<!-- Here is **[the participation link](https://hangouts.google.com/call/2p5yxdtqvjbbzmkglrsvgwutmae)**. -->
 [//]: # (best way to comment apparantly)
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
