@@ -19,7 +19,11 @@ The next session will be announced soon.
 ### Garrulous version
 Hi
 
-I apologise for the extremely short notice. Today (tonight for some people) we'll have the third session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](github.com/toAtulArora/radiation) for a link to join. It will be posted shortly there.
+I apologise for the extremely short notice. Today (tonight for some people) we'll have the third session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](github.com/toAtulArora/radiation) for a link to join. It will be posted shortly there. We hope to make this happen weekly (or once a fortnight at least). Looking forward to seeing everyone.
+
+Sincerely
+--
+Atul
 
 
 #### Succinct version
