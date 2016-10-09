@@ -9,29 +9,35 @@
 ## Upcoming
 The next session will be announced soon.
 
-<!-- The latest session is scheduled to be held on **Thursday, May 19, 2016** at **2200 (IST)**.  -->
+<!-- The latest session is scheduled to be held on **Sunday Oct 9, 2016** at **10 00 (IST)**.  -->
 <!-- Here is **[the participation link](https://hangouts.google.com/call/5hqs2mmpzbgr3ifldfoid2xfeee)** . -->
 [//]: # (best way to comment apparantly)
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
 ### Sunday, Oct 9 (2016)
+### Garrulous version
+Hi
 
-#### SUccinct version
+I apologise for the extremely short notice. Today (tonight for some people) we'll have the third session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](github.com/toAtulArora/radiation) for a link to join. It will be posted shortly there.
+
+
+#### Succinct version
 
 Specifications
 
 |Key |Detail  |
 |:--|:--|
 |Session # | 3 |
-|Date | May 19, 2016  |
-|Time | 10:00 (GMT) |
+|Date | Oct 9, 2016  |
+|Time | 10 00 (GMT) |
 | Revision Speaker | Kishor Bharti |
 | Revision Topic | Condensed Matter (Bose Hubbard Model) |
 | Tech Speaker | -  | 
 | Tech Topic | - |
 | Research Speaker | Atul Singh Arora |
 | Research Topic | Continuous Time Cryptography and Complexity |
+| Discussion | Speaker for the next session! |
 
 
 
