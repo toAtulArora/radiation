@@ -15,6 +15,8 @@ Here is **[the participation link](https://hangouts.google.com/call/2p5yxdtqvjbb
 
 ## Invitation Log
 ### Sunday, Oct 9 (2016)
+**[View the hangout](https://www.youtube.com/watch?v=ebwrqtjXmUE)**
+
 #### Garrulous version
 Hi
 
