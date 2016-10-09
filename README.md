@@ -15,6 +15,25 @@ The next session will be announced soon.
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
+### Sunday, Oct 9 (2016)
+
+#### SUccinct version
+
+Specifications
+
+|Key |Detail  |
+|:--|:--|
+|Session # | 3 |
+|Date | May 19, 2016  |
+|Time | 10:00 (GMT) |
+| Revision Speaker | Kishor Bharti |
+| Revision Topic | Condensed Matter (Bose Hubbard Model) |
+| Tech Speaker | -  | 
+| Tech Topic | - |
+| Research Speaker | Atul Singh Arora |
+| Research Topic | Continuous Time Cryptography and Complexity |
+
+
 
 ### Thursday, May 19 (2016)
 **[View the hangout](http://youtu.be/vXgu0eiObxE)**
