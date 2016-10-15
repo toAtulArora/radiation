@@ -42,7 +42,7 @@ Specifications
 | Tech Topic | - |
 | Research Speaker | Kishor Bharti |
 | Research Topic | Condensed Matter/Quantum Mechanics |
-| Discussion | Speaker for the next session! |
+| Discussion | - |
 | Link | [see the website](http://github.com/toAtulArora/radiation) |
 
 
