@@ -20,7 +20,7 @@ The latest session is scheduled to be held on **Sunday Oct 16, 2016** at **10 00
 #### Garrulous version
 Hi
 
-Tomorrow we'll have the fourth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. It will be posted an hour in advance (roughly). This weekend we intend to start revision of Mechancis, by Landau, with the ambitious goal of completing the entire series. Bhati has agreed to do the first session. Kishor will present his research in the research section. Looking forward to seeing everyone.
+Tomorrow we'll have the fourth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. It will be posted an hour in advance (roughly). This weekend we intend to start revision of Mechancis, by Landau, with the ambitious goal of completing the entire series. Bhati has agreed to do the first session. Kishor will present his research, "Quantum Simulation using Photon and Polaritons", in the research section. Looking forward to seeing everyone.
 
 Sincerely
 
