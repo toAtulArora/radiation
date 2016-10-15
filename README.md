@@ -20,7 +20,7 @@ The latest session is scheduled to be held on **Sunday Oct 16, 2016** at **10 00
 #### Garrulous version
 Hi
 
-I apologise for the extremely short notice. Today (tonight for some people) we'll have the third session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. It will be posted shortly there. We hope to make this happen weekly (or once a fortnight at least). Looking forward to seeing everyone.
+Tomorrow we'll have the fourth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. It will be posted shortly there. This weekend we intend to start revision of Mechancis, by Landau, with the ambitious goal of completing the entire series. Bhati has agreed to do the first session. Kishor will present his research in the research section. Looking forward to seeing everyone.
 
 Sincerely
 
@@ -33,15 +33,15 @@ Specifications
 
 |Key |Detail  |
 |:--|:--|
-|Session # | 3 |
-|Date | Oct 9, 2016  |
+|Session # | 4 |
+|Date | Oct 15, 2016  |
 |Time | 10 00 (GMT) |
-| Revision Speaker | Kishor Bharti |
-| Revision Topic | Condensed Matter (Bose Hubbard Model) |
+| Revision Speaker | Rajendra Singh Bhati |
+| Revision Topic | Chapter 1, Mechanics, Landua |
 | Tech Speaker | -  | 
 | Tech Topic | - |
-| Research Speaker | Atul Singh Arora |
-| Research Topic | Continuous Time Cryptography and Complexity |
+| Research Speaker | Kishor Bharti |
+| Research Topic | Condensed Matter/Quantum Mechanics |
 | Discussion | Speaker for the next session! |
 | Link | [see the website](http://github.com/toAtulArora/radiation) |
 
