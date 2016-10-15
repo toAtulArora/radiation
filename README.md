@@ -34,7 +34,7 @@ Specifications
 |Key |Detail  |
 |:--|:--|
 |Session # | 4 |
-|Date | Oct 15, 2016  |
+|Date | Oct 16, 2016  |
 |Time | 10 00 (GMT) |
 | Revision Speaker | Rajendra Singh Bhati |
 | Revision Topic | Chapter 1, Mechanics, Landua |
