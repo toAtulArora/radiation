@@ -41,7 +41,7 @@ Specifications
 | Tech Speaker | -  | 
 | Tech Topic | - |
 | Research Speaker | Kishor Bharti |
-| Research Topic | Condensed Matter/Quantum Mechanics |
+| Research Topic | Quantum Simulation using Photon and Polaritons |
 | Discussion | - |
 | Link | [see the website](http://github.com/toAtulArora/radiation) |
 
