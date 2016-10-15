@@ -37,7 +37,7 @@ Specifications
 |Date | Oct 16, 2016  |
 |Time | 10 00 (GMT) |
 | Revision Speaker | Rajendra Singh Bhati |
-| Revision Topic | Chapter 1, Mechanics, Landua |
+| Revision Topic | Chapter 1, Mechanics, Landau |
 | Tech Speaker | -  | 
 | Tech Topic | - |
 | Research Speaker | Kishor Bharti |
