@@ -3,7 +3,7 @@
 Φ@I Radiation series has been started to facilitate productive discussions among physics graduates of IISER Mohali. At present, it has the following three sections.
 * Revision Section: Here we will revise topics the audience is already expected to know
 * Technology Section: This is for discussion of relavent tools for enhancing efficiency
-* Research Section: The speaker will either discuss recent progress or their own research at a broad enough level
+* Seminar Section: The speaker will either discuss recent progress or their own research at a broad enough level
 
 
 ## Upcoming
