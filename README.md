@@ -18,7 +18,7 @@ The latest session is scheduled to be held on **Sunday Oct 23, 2016** at **10 00
 #### Garrulous version
 Hi
 
-As scheduled, we'll have the fifth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. This week we'll have a seminar by Kishor on the relation between relativity and quantum mechanics while I will resume the mechanics series. For the next time, we need speakers and I hope Bhati/Diksha (or if you're interested, please come forward)  can present what they are working on.
+As scheduled, we'll have the fifth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. This week we'll have a seminar by Kishor on the relation between relativity and quantum mechanics while I will resume the mechanics series. For the next time, we need speakers and I hope Bhati/Diksha/Manvendra (astrophysics would be nice!)/Akhil (or if you're interested, please come forward)  can present what they are working on.
 
 Sincerely
 
