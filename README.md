@@ -37,8 +37,8 @@ Specifications
 | Revision Topic | Chapter 1, Mechanics, Landau |
 | Tech Speaker | -  | 
 | Tech Topic | - |
-| Research Speaker | Kishor Bharti |
-| Research Topic | Relativity and Quantum Mechanics | Paradoxes |
+| Seminar Speaker | Kishor Bharti |
+| Seminar Topic | Relativity and Quantum Mechanics | Paradoxes |
 | Discussion | - |
 | Link | [see the website](http://github.com/toAtulArora/radiation) |
 
