@@ -18,6 +18,8 @@ The latest session is scheduled to be held on **Sunday Oct 23, 2016** at **10 00
 
 ## Invitation Log
 ### Sunday, Oct 23 (2016)
+**[View the hangout](https://youtu.be/TMA9igkcK8U)**
+
 #### Garrulous version
 Hi
 
