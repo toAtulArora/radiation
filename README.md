@@ -10,7 +10,7 @@
 
 The latest session is scheduled to be held on **Sunday Oct 23, 2016** at **10 00 (GMT)**.
 
-Here is **[the participation link](https://hangouts.google.com/call/ms5z5lpl3rejzfuoao4rx5ttxie)**.
+<!-- Here is **[the participation link](https://hangouts.google.com/call/ms5z5lpl3rejzfuoao4rx5ttxie)**. -->
 
 <!-- Here is **[the participation link](https://hangouts.google.com/call/c4vmrvvwtbddvb4swcsdthuqnqe)**.  -->
 [//]: # (best way to comment apparantly)
