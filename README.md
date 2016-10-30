@@ -8,7 +8,7 @@
 
 ## Upcoming
 
-The latest session is scheduled to be held on **Sunday Oct 30, 2016** at **10 00 (GMT)**.
+The latest session is scheduled to be held on **Sunday November 6, 2016** at **10 00 (GMT)** instead of **Sunday Oct 30, 2016** at **10 00 (GMT)**.
 
 
 <!-- Here is **[the participation link](https://hangouts.google.com/call/c4vmrvvwtbddvb4swcsdthuqnqe)**.  -->
