@@ -19,7 +19,7 @@ The latest session has been postponed to **Sunday November 6, 2016** at **10 00 
 ### Sunday, Nov 6 (2016)
 Hi
 
-As scheduled, we'll have the fifth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. As usual, unfortunately, Kishor will present a seminar, on Information Causality, while I will continue with Landau's Mechanics.
+As scheduled, we'll have the fifth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. As usual, 'unfortunately', Kishor will present a seminar, on Information Causality, while I will continue with Landau's Mechanics.
 
 Sincerely
 
