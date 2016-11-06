@@ -16,6 +16,34 @@ The latest session has been postponed to **Sunday November 6, 2016** at **10 00 
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
+### Sunday, Nov 6 (2016)
+Hi
+
+As scheduled, we'll have the fifth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. As usual, unfortunately, Kishor will present a seminar, on Information Causality, while I will continue with Landau's Mechanics.
+
+Sincerely
+
+Atul
+
+#### Succinct version
+
+Specifications
+
+|Key |Detail  |
+|:--|:--|
+|Session # | 6 |
+|Date | Nov 6, 2016  |
+|Time | 10 00 (GMT) |
+| Revision Speaker | Atul Singh Arora |
+| Revision Topic | Chapter 2, Mechanics, Landau |
+| Tech Speaker | -  | 
+| Tech Topic | - |
+| Seminar Speaker | Kishor Bharti |
+| Seminar Topic | Information Causality |
+| Discussion | - |
+| Link | [see the website](http://github.com/toAtulArora/radiation) |
+
+
 ### Sunday, Oct 23 (2016)
 **[View the hangout](https://youtu.be/TMA9igkcK8U)**
 
