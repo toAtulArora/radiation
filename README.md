@@ -10,12 +10,14 @@
 
 The latest session will be held on **Sunday November 6, 2016** at **10 00 (GMT)**. 
 
-**Here is [the participation link](https://hangouts.google.com/call/55vrxzd325e7nnqhnz2d3bv7nie)**.
+<!-- **Here is [the participation link](https://hangouts.google.com/call/55vrxzd325e7nnqhnz2d3bv7nie)**. -->
 [//]: # (best way to comment apparantly)
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
 ### Sunday, Nov 6 (2016)
+**[View the hangout](https://www.youtube.com/watch?v=LY0crF142oc)**
+
 Hi
 
 As scheduled, we'll have the fifth session of **Φ@I Radiation** at 10 00 (GMT). Please visit [the website](http://github.com/toAtulArora/radiation) for a link to join. As usual, 'unfortunately', Kishor will present a seminar, on Information Causality, while I will continue with Landau's Mechanics.
