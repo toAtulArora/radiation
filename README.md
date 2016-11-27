@@ -18,15 +18,15 @@ The latest session will be held on **Sunday November 27, 2016** at **10 00 (GMT)
 ### Sunday, Nov 27 (2016
 |Key |Detail  |
 |:--|:--|
-|Session # | 6 |
-|Date | Nov 6, 2016  |
+|Session # | 7 |
+|Date | Nov 27, 2016  |
 |Time | 10 00 (GMT) |
 | Revision Speaker | Atul Singh Arora |
 | Revision Topic | Chapter 2, Mechanics, Landau |
 | Tech Speaker | -  | 
 | Tech Topic | - |
-| Seminar Speaker | Kishor Bharti |
-| Seminar Topic | Information Causality |
+| Seminar Speaker | Diksha Jain |
+| Seminar Topic | Effective Field Theories |
 | Discussion | - |
 | Link | [see the website](http://github.com/toAtulArora/radiation) |
 
