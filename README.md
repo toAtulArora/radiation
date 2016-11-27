@@ -15,7 +15,7 @@ The latest session will be held on **Sunday November 27, 2016** at **10 00 (GMT)
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
-### Sunday, Nov 27 (2016
+### Sunday, Nov 27 (2016)
 |Key |Detail  |
 |:--|:--|
 |Session # | 7 |
