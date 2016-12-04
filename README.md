@@ -16,6 +16,7 @@ The latest session is scheduled to be held on **Sunday December 11, 2016** at **
 
 ## Invitation Log
 ### Sunday, Dec 4 (2016)
+**[View the hangout](https://www.youtube.com/watch?v=4XxO0x8H8EU)**
 
 |Key |Detail  |
 |:--|:--|
