@@ -19,7 +19,7 @@ The latest session will be held on **Sunday December 4, 2016** at **10 00 (GMT)*
 
 |Key |Detail  |
 |:--|:--|
-|Session # | 7 |
+|Session # | 8 |
 |Date | Dec 4, 2016  |
 |Time | 10 00 (GMT) |
 | Speaker 1 | Diksha Jain |
