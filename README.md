@@ -15,6 +15,40 @@ The latest session is scheduled to be held on **Sunday December 11, 2016** at **
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
+
+### Sunday, January 22 (2017)
+**[View the hangout](https://youtu.be/qXsF63IqA6s)**
+
+|Key |Detail  |
+|:--|:--|
+|Session # | 10 |
+|Date | Jan 22, 2017  |
+|Time | 10 00 (GMT) |
+| Speaker 1 | Diksha Jain |
+| Topic 1 | QFT, Peskin |
+| Speaker 2 | - |
+| Topic 2 | - |
+| Discussion | - |
+| Link | [see the website](http://github.com/toAtulArora/radiation) |
+
+
+
+### Sunday, January 15 (2017)
+**[View the hangout](https://youtu.be/g7HoufcinC8)**
+
+|Key |Detail  |
+|:--|:--|
+|Session # | 9 |
+|Date | Jan 15, 2017  |
+|Time | 10 00 (GMT) |
+| Speaker 1 | Kishor Bharti |
+| Topic 1 | Chapter 3, Mechanics, Landau |
+| Speaker 2 | - |
+| Topic 2 | - |
+| Discussion | - |
+| Link | [see the website](http://github.com/toAtulArora/radiation) |
+
+
 ### Sunday, Dec 4 (2016)
 **[View the hangout](https://www.youtube.com/watch?v=4XxO0x8H8EU)**
 
