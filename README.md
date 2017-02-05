@@ -21,7 +21,7 @@ The latest session is scheduled to be held on **Sunday February 5, 2016** at **1
 
 |Key |Detail  |
 |:--|:--|
-|Session # | 10 |
+|Session # | 11 |
 |Date | Jan 29, 2017  |
 |Time | 10 00 (GMT) |
 | Speaker 1 | Kishor Bharti |
