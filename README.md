@@ -8,7 +8,7 @@
 
 ## Upcoming
 
-The latest session is scheduled to be held on **Sunday February 12, 2016** at **10 00 (GMT)**. 
+The latest session is scheduled to be held on **Sunday February 26, 2016** at **10 00 (GMT)**. 
 https://youtu.be/l0idN5E5Hag
 <!-- **Here is [the participation link](https://hangouts.google.com/call/sn3hctu74jeadhecuvgoqciss4e)**. -->
 [//]: # (best way to comment apparantly)
