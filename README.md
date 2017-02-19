@@ -15,6 +15,23 @@ https://youtu.be/l0idN5E5Hag
 <!-- Here is **[the participation link](https://hangouts.google.com/call/aqdwn7v2srgwzo4i26m4sja2a4e)** and **[this is the viewing link](http://youtu.be/mcgR67Ny19c)**. -->
 
 ## Invitation Log
+### Sunday, February 12 (2017)
+**[View the hangout](https://youtu.be/uCGyGjCjbu4)**
+
+|Key |Detail  |
+|:--|:--|
+|Session # | 13 |
+|Date | Feb 12, 2017  |
+|Time | 10 00 (GMT) |
+| Speaker 1 | Kishor Bharti and Atul Singh Arora |
+| Topic 1 | Landau Mechanics Chapter 4 (Collisions) discussed only one proof|
+| Speaker 2 | - |
+| Topic 2 | - |
+| Discussion | - |
+| Link | [see the website](http://github.com/toAtulArora/radiation) |
+
+
+### Sunday, February 5 (2017)
 **[View the hangout](https://youtu.be/EhBrffgWEdE)**
 
 |Key |Detail  |
