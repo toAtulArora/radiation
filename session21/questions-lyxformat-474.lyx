@@ -79,83 +79,57 @@
 \begin_body
 
 \begin_layout Title
-Questions: Mechanics, Landau
+Self Respect
 \end_layout
 
 \begin_layout Date
-Due: April 16, 2015
+Due: December 5, 2015
 \end_layout
 
 \begin_layout Abstract
 This is intended to keep us updated.
 \end_layout
 
-\begin_layout Section*
-Chapter 1
+\begin_layout Section
+Palimpsest
 \end_layout
 
 \begin_layout Enumerate
-Find the Lagrangian for each of the following systems when placed in a uniform
- gravitational field (acceleration g).
+Maxwell equation inside
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-A coplanar double pendulum (see 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:fig1"
-
-\end_inset
-
-) 
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename fig1.png
-	width 4cm
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-\begin_inset CommandInset label
-LatexCommand label
-name "fig:fig1"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
+Matter (both general and linear) and in Vacuum (should know the derivations
+ starting from Magnetization and Polarization)
 \end_layout
 
 \begin_layout Enumerate
-
+Find boundary conditions (in case of matter) for going from one medium to
+ another
 \end_layout
 
 \end_deeper
+\begin_layout Enumerate
+Show that EM waves are transverse (yes, it's the classic bag question but
+ there was one step I couldn't quite prove)
+\end_layout
+
+\begin_layout Section
+Ascendency
+\end_layout
+
+\begin_layout Section
+Maverick
+\end_layout
+
+\begin_layout Enumerate
+[recall: it's about the spins of an electron and entanglement]
+\end_layout
+
 \end_body
 \end_document
